@@ -1,7 +1,7 @@
 {
   "name": "gatsby-plugin-posthog",
-  "version": "1.0.1",
-  "description": "Official gatsby plugin to setup posthog",
+  "version": "1.1.0",
+  "description": "Temporary fork of official gatsby plugin to setup posthog that supports gatsby v5",
   "main": "index.js",
   "scripts": {
     "build": "babel src --out-dir . --ignore \"**/__tests__\"",
