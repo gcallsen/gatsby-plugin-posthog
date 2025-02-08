@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-plugin-posthog",
+  "name": "@galexc/gatsby-plugin-posthog",
   "version": "1.1.0",
   "description": "Temporary fork of official gatsby plugin to setup posthog that supports gatsby v5",
   "main": "index.js",
@@ -30,6 +30,6 @@
     "gatsby-plugin",
     "posthog-analytics"
   ],
-  "author": "macobo",
+  "author": "GalexC",
   "license": "MIT"
 }
